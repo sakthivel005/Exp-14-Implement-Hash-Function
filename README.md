@@ -1,4 +1,4 @@
-# Exp-14-Implement-Hash-Function
+# Ex-14-Implement-Hash-Function
 ## AIM:
 To implement a simple hash function in C to convert a string into a fixed-size hash value using basic hashing techniques.
 
